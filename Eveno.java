@@ -5,12 +5,12 @@ public class Eveno
     public static void main(String[] args) 
     {
         
-        Scanner inputReader = new Scanner(System.in);
+        Scannersc = new Scanner(System.in);
 
         System.out.print("Enter an integer to check if it's even or odd: ");
 
         
-        int number = inputReader.nextInt();
+        int number = Scannersc.nextInt();
 
         
         if (number % 2 == 0) {
@@ -18,10 +18,11 @@ public class Eveno
         } 
         else 
         {
+        
             System.out.println(number + " is an ODD number.");
         }
 
         
-        inputReader.close();
+            Scannersc.close();
     }
 }
