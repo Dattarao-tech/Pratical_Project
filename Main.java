@@ -6,7 +6,7 @@ class Airtel
         if(count>0)
         {        
              n3 = n1 + n2;        
-             n1 = n2;        
+             n1 = n2;       
              n2 = n3;        
              System.out.print(" "+n3);       
              println(count-1);        
@@ -21,4 +21,4 @@ public class Main
     System.out.println(F.n1+" "+F.n2);
     Airtel.println(count-2);      
  }    
-}    
+}
