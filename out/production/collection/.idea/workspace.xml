@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c029ba04-aecc-4cfb-a8aa-147ad5a5c41c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Hirachicalinheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Singaleinheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/multilevalinheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/singleinheritanse2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NextPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Starpattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment1/If_Else_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment1/If_statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment1/Nested_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment1/Nigative_Positive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment1/Odd_Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment1/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment1/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment1/Switch_Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment1/incree_decree_usingloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaAssignment/Assignment2/Pyramid_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/java PRACTICE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ifstatment2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ifstatement/Ifstatement1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ifstatement/Ifstatement3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ifstatement/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ifstatement/ifstatement4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ifstatement/leapornot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java PRACTICE/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java PRACTICE/.idea/java PRACTICE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java PRACTICE/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java PRACTICE/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java PRACTICE/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java PRACTICE/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java PRACTICE/Ifstatment2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java PRACTICE/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java PRACTICE/alphanumric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java PRACTICE/reversestring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/java PRACTICE/stringmethod.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "siddharthgudekar13"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/siddharthgudekar13/Application_test.git",
+    "accountId": "7f6bfb0e-07c1-4e44-8d73-f599e36a7ebe"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="32piXrlFKGklOdp3Ut2pssmd07v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "#1 on test",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c029ba04-aecc-4cfb-a8aa-147ad5a5c41c" name="Changes" comment="" />
+      <created>1758123962598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758123962598</updated>
+    </task>
+    <servers />
+  </component>
+</project>
